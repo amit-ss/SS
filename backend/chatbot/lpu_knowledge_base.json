@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Minimum Attendance Policy",
+    "category": "academics",
+    "source_reference": "LPU Academic Regulations Clause 4.2",
+    "content": "Lovely Professional University strictly enforces a minimum attendance requirement of 75% in each registered course (theory and practical separately) to be eligible to appear in the End-Term Examinations. Students falling between 65% and 74% due to medical conditions or approved duty leaves (DL) must have their sanctions approved on UMS within 3 days of resuming classes. Students with below 65% attendance are debarred (short attendance) and must register for course backlogs or summer terms."
+  },
+  {
+    "title": "LPU Central Library (Blocks 37 & 38)",
+    "category": "facilities",
+    "source_reference": "Division of Library Services",
+    "content": "The LPU Central Library spans Blocks 37 and 38 across 4 floors. It houses over 1.5 million print volumes, 30,000+ electronic journals, IEEE Xplore, ScienceDirect, and Scopus. Opening hours: Monday to Saturday from 8:00 AM to 11:00 PM; Sundays from 9:00 AM to 5:00 PM. During mid-term and end-term examination weeks, the reading halls operate 24 hours. B.Tech students may issue 4 books simultaneously for up to 14 days."
+  },
+  {
+    "title": "Campus Hostels and In-Time Regulations",
+    "category": "hostel",
+    "source_reference": "Division of Student Welfare (Residential Wing)",
+    "content": "LPU residential facilities include Boys Hostels (BH-1 to BH-8) and Girls Hostels (GH-1 to GH-6). Curfew in-time is strictly 8:00 PM in Winter (Oct-March) and 8:30 PM in Summer (April-Sept). Outing passes (day outing or night leave) must be submitted via the LPU Touch Mobile App and require parental SMS/call verification. All hostels include Wi-Fi, 24/7 security, gym access, mess halls, and laundry services."
+  },
+  {
+    "title": "University Management System (UMS) and Touch App",
+    "category": "academics",
+    "source_reference": "Division of Examination & IT",
+    "content": "UMS (ums.lpu.in) is the central university portal for checking timetables, marksheets, Continuous Assessment (CA) scores, teacher evaluations, fee invoices, and hostel allocations. Students log in with their unique 8-digit Registration Number and password. The official mobile version is LPU Touch."
+  },
+  {
+    "title": "Placement Eligibility and Top Recruiters",
+    "category": "placement",
+    "source_reference": "Division of Career Services (Block 32)",
+    "content": "Placement drives are coordinated by the Division of Career Services located in Block 32. Students must clear the placement readiness test (PRT) and typically maintain a minimum CGPA of 6.5 or above with no active backlogs. Major recruiting partners include Microsoft, Google, Amazon, Cognizant, Capgemini, Bosch, Palo Alto Networks, TCS, Infosys, and Wipro."
+  },
+  {
+    "title": "Academic Blocks and Department Locations",
+    "category": "facilities",
+    "source_reference": "Campus Infrastructure Directory",
+    "content": "Block 25 to 28: School of Mechanical, Aerospace, and Civil Engineering. Block 33 and 34: School of Computer Science & Engineering (CSE) and IT labs. Block 32: Admissions, International Affairs, and Career Services. Block 29: Division of Student Welfare (DSW). Block 30: School of Law. Block 35 to 36: Bioengineering, Robotics, and Advanced Research Labs. UniMall: Commercial complex with retail stores and food chains. Baldev Raj Mittal Unipolis: Open-air mega amphitheater with 10,000+ capacity."
+  },
+  {
+    "title": "Continuous Assessment (CA) and Grading System",
+    "category": "academics",
+    "source_reference": "LPU Examination Handbook",
+    "content": "Courses at LPU are evaluated through Continuous Assessment (CA) contributing 40-50% and End-Term Examination (ETE) contributing 50-60%. CA includes quizzes, assignments, midterm examinations, and class participation. Grading follows a 10-point relative or absolute scale: O (Outstanding - 10), A+ (9), A (8), B+ (7), B (6), C (5), D (Pass - 4), and E/F (Fail/Backlog - 0)."
+  },
+  {
+    "title": "University Hospital & Emergency Health Services",
+    "category": "facilities",
+    "source_reference": "UniHospital Administration",
+    "content": "UniHospital is a 24/7 multi-specialty healthcare facility located near the University Main Gate. It provides free consultation to registered LPU students, emergency trauma care, ambulance services, dental and optical OPD, and in-house pharmacy. Emergency helpline extension is reachable via campus landlines or +91-1824-517000."
+  }
+]
